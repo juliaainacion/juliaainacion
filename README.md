@@ -1,4 +1,4 @@
 - Julia Inacio Tome
 - Engenharia de Software / Programador de Sistemas
-- Java, Phyton
-- juliainacion@icloud.com / instagram: @engesoft1
+- Java, Python
+- juliainacion@icloud.com / instagram: @juliainacion
